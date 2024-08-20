@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
