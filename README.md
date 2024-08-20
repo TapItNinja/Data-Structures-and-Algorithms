@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
