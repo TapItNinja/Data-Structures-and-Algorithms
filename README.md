@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@
 | [0141-linked-list-cycle](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
