@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 | [1769-get-maximum-in-generated-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1769-get-maximum-in-generated-array) |
@@ -16,12 +17,14 @@
 | [0001-two-sum](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,11 +74,13 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -90,4 +95,8 @@
 |  |
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1769-get-maximum-in-generated-array) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
