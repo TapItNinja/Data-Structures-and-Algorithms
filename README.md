@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
+| [1769-get-maximum-in-generated-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1769-get-maximum-in-generated-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1769-get-maximum-in-generated-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1769-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
