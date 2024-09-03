@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 | [1769-get-maximum-in-generated-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/1769-get-maximum-in-generated-array) |
@@ -18,6 +19,7 @@
 | [0141-linked-list-cycle](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0141-linked-list-cycle](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -75,6 +78,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -99,4 +103,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
