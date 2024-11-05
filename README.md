@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
