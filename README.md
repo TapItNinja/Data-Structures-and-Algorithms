@@ -106,4 +106,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
