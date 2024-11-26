@@ -87,6 +87,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
