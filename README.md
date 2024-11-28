@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/TapItNinja/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Simulation
