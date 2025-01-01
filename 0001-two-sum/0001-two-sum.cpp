@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int >ans;
-        map<int, int>mpp;
+        unordered_map<int, int>mpp;
         int rem;
 
         for(int i=0; i<nums.size(); i++){
